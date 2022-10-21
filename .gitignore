@@ -1,0 +1,18 @@
+*.pt
+*.npz
+*.npy
+# teaching material
+*.jpg
+*.png
+*.pptx
+*.pdf
+*.csv
+*.zip
+*.txt
+*.dat
+Datasets
+data
+.ipynb_checkpoints/
+__pycache__
+/Pytorch/data
+/Pytorch/Datasets
