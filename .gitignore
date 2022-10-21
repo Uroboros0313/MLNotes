@@ -3,7 +3,7 @@
 *.npy
 # teaching material
 *.jpg
-*.png
+#*.png
 *.pptx
 *.pdf
 *.csv
