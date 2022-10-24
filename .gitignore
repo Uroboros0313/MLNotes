@@ -1,19 +1,23 @@
-*.pt
-*.npz
-*.npy
 # teaching material
 *.jpg
 #*.png
 *.pptx
 *.pdf
+
+# Dataset
+*.pt
+*.npz
+*.npy
 *.csv
 *.zip
 *.txt
 *.dat
 Datasets
 data
-.ipynb_checkpoints/
-__pycache__
 /Pytorch/data
 /Pytorch/Datasets
 /DL_advanced/DRL/DRL
+
+# cache
+.ipynb_checkpoints/
+__pycache__
